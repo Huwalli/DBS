@@ -11,6 +11,7 @@
 * Note
 
 * Homework
+<br />  [hw0](https://youtu.be/x9kl9aDomh0)
 
 * Final Demo
 
