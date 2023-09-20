@@ -1,0 +1,26 @@
+-- 在 idea_share3 模式中创建 certification 表格
+CREATE TABLE idea_share3.certification (
+    certification_id INT PRIMARY KEY,
+    user_id INT,
+    skill VARCHAR(255),
+    certification_name VARCHAR(255)
+    -- 其他列和约束可以根据需要添加
+);
+
+-- 在 idea_share3 模式中创建 sign_in_info 表格
+CREATE TABLE idea_share3.sign_in_info (
+    user_id INT PRIMARY KEY,
+    user_name VARCHAR(255),
+    email VARCHAR(255),
+    password VARCHAR(255)
+    -- 其他列和约束可以根据需要添加
+);
+
+-- 在 idea_share3 模式中创建 project_bf 表格
+CREATE TABLE idea_share3.project_bf (
+    user_id INT,
+    project_id INT PRIMARY KEY,
+    topic VARCHAR(255),
+    role VARCHAR(255)
+    -- 其他列和约束可以根据需要添加
+);
