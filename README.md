@@ -13,7 +13,7 @@
 * Homework
 <br />  [hw0](https://youtu.be/x9kl9aDomh0)
 <br />  [hw1](https://youtu.be/fVOnD8ErG9A)
-<br />  [hw1](https://youtu.be/4A6uWx4RBXM)
+<br />  [hw2](https://youtu.be/4A6uWx4RBXM)
 
 * Final Demo
 
